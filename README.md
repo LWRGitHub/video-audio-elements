@@ -22,4 +22,4 @@ Code includes WebVTT subtitling & MediaElement.js which brings consistency throu
 
 ***Video & Audio Elements***
 
-<img src="https://raw.githubusercontent.com/LWRGitHub/tech-conf-site/main/video-audio-project.jpg" alt="this is a screen shot video & audio elements on the main page.">
+<img src="https://raw.githubusercontent.com/LWRGitHub/video-audio-elements/main/video-audio-project.jpg" alt="this is a screen shot video & audio elements on the main page.">
